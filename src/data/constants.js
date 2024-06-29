@@ -13,9 +13,6 @@ export const Bio = {
       "https://docs.google.com/document/d/13kkqeFEmCGZwbuEUR_BlFGdS-Mb4imUo/edit?usp=drive_link&ouid=110686524856560708875&rtpof=true&sd=true",
     
   linkedin: "https://www.linkedin.com/in/venkataraju-ch-434795273/",
-  /*twitter: "https://twitter.com/RishavChanda",*/
-  /*insta: "https://www.instagram.com/rishav_chanda/",*/
-  /*facebook: "https://www.facebook.com/rishav.chanda.165/",*/
 };
 
 export const skills = [
@@ -51,11 +48,11 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
-      {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
+      // {
+      //   name: "Bootstrap",
+      //   image:
+      //     "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      // },
       /*{
         name: "Material UI",
         image:
@@ -89,11 +86,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
-      {
-        name: "MySQL",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
+      // {
+      //   name: "MySQL",
+      //   image:
+      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      // },
       /*{
         name: "Postgresql",
         image: "https://www.postgresql.org/media/img/about/press/elephant.png",
@@ -117,11 +114,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
-      {
-        name: "Kotlin",
-        image:
-          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-      },
+      // {
+      //   name: "Kotlin",
+      //   image:
+      //     "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+      // },
       {
         name: "XML",
         image:
@@ -197,12 +194,34 @@ export const experiences = [
       "Portainer",
       "Nginx",*/
       "JavaScript",
-      "TypeScript",
+      // "TypeScript",
       "Node Js",
-      " Next Js",
+      // " Next Js",
       "React js"
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 0,
+    img: "data:image/jpeg;base64,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",
+    role: "REACT DEVELOPER",
+    company: "REAIDY.io.",
+    date: "June 2024 - July 2024",
+    desc: "Working on REAIDY.IO Platforms.",
+    skills: [
+      /*"Docker",
+      "Terraform",
+      "AWS",
+      "EC2",
+      "Portainer",
+      "Nginx",*/
+      "JavaScript",
+      // "TypeScript",
+      "Node Js",
+      // " Next Js",
+      "React js"
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   /*{
     id: 0,
@@ -344,8 +363,37 @@ export const projects = [
       "Redux",*/
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/venkataraju0707",
+    // webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 9,
+    title: "BLOG",
+    date: "MAY 2024 -JUNE 2024",
+    descriptio:
+    ".",
+    image:
+      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+    tags: [
+      "REACT JS",
+      "VITE",
+      "TAILWIND",
+      
+      /*"Docker",
+      "AWS",
+      "DuckDNS",
+      "Eslint",
+      "Husky",
+      "CI/CD",
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",*/
+    ],
+    category: "web app",
+    github: "https://github.com/venkataraju0707",
+    // webapp: "https://trackify.duckdns.org",
   },
   /*{
     id: 0,
@@ -518,7 +566,6 @@ export const TimeLineData = [
   /*{ year: 2017, text: "Started my " },
   { year: 2018, text: "Worked as a freelance developer" },
   { year: 2019, text: "Founded JavaScript Mastery" },*/
-  { year: 2020, text: "Started learning coding" },
-  { year: 2021, text: "" },
-  { year: 2022, text: "" }
+  { year: 2022, text: "Started learning coding" },
+   
 ];
